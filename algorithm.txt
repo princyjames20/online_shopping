@@ -1,0 +1,12 @@
+Step 1 - Declare and read the number of elements.
+
+Step 2 - Declare and read the array size at runtime.
+
+Step 3 - Input the array elements.
+
+Step 4 - Arrange numbers in descending order.
+
+Step 5 - Then, find the second largest and second smallest numbers by using an index.
+
+Step 6 - Print the second largest and the second smallest numbers.
+
